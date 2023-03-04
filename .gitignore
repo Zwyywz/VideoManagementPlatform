@@ -1,5 +1,2 @@
-0build-mac/
-0build-linux/
-bin/
-.idea/
-.DS_Store
+0build-winodws/
+log
